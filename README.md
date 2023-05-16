@@ -1,6 +1,6 @@
 # Hi there, I'm Dev whale 🐋  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjaya-danushka&show_icons=true&theme=radical"/>
-<img align="left"width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaya-danushka&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjaya-danushka&show_icons=true&theme=radical)"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)"/>
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
