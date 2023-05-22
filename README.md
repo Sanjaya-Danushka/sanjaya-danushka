@@ -15,5 +15,5 @@
 </>
 </>
 
-<img src="https://www.codewars.com/users/sanjaya/badges/small"/>
+<img src="https://www.codewars.com/users/sanjaya/badges/micro"/>
 
