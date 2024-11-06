@@ -14,3 +14,5 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+![snake gif](https://github.com/tobiasmeyhoefer/tobiasmeyhoefer/blob/output/github-snake-dark.svg)
