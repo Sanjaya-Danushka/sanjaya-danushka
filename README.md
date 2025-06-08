@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! I'm Dev Whale.</h2>
 
 ###
+🌍 Passionate Software Engineer | 🔬 Technology Researcher | 🧑‍🏫 Non-profit Educational Author  
+💻 Advocate of Open Source | 🚀 Java • Python • Dart Enthusiast
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -62,3 +64,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+> _"The best way to predict the future is to build it — and help others build theirs."_  
+>  — Sanjaya Danushka
