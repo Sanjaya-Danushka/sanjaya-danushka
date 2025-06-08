@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Dev Whale.</h2>
+<h2 align="left">Hello 👋! I'm Dev Whale.</h2>
 
 ###
 
